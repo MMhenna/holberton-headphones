@@ -17,14 +17,23 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer.
 ## :books: Tasks
 
 **0. Read and be familiar with Figma**
+
 **1. Header**
+
 **2. "What we do..." section**
+
 **3. "Our results" section**
+
 **4. Contact us**
+
 **5. Footer**
+
 **6. Replace image by... code!**
+
 **7. Let's animate items**
+
 **8. And SASS??**
+
 
 ## :sagittarius: Author
 
