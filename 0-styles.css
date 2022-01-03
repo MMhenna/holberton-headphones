@@ -301,7 +301,7 @@ a:active {
 
 @media (max-width: 480px) {
   header {
-    background-position: 44% 50%; /* transition: background-position 0.2s ease; */
+    background-position: 44% 50%;
   }
 
   header .header nav {
